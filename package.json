@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "app-root-path": "^3.1.0",
+    "uglify-js": "^3.17.4"
+  }
+}
